@@ -3,7 +3,6 @@
     - images/
         - picturesave1.jpg
     - upload.php
-    - 
 ```php
 # upload.php
 <?php
